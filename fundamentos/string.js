@@ -1,4 +1,4 @@
-const escola = "Khanelae";
+const escola = "Khanelab";
 
 // Aqui foi pego apenas uma letra ao qual se localiza no 4 caracter e abaixo no 5
 console.log(escola.charAt(4));
