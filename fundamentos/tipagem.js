@@ -14,7 +14,7 @@ console.log(typeof qualquer);
 
 const valor = '';
 const numero = 1;
-const pqp = false; // Puta que pariu... hue
+const boolean = false;
 
-console.log(pqp);
-console.log(typeof pqp);
+console.log(boolean);
+console.log(typeof boolean);
