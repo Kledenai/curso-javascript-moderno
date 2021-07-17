@@ -16,3 +16,6 @@ console.log(sum(2,3))
 const subtraction = (a,b) => a - b
 
 console.log(subtraction(3,2))
+
+const print2 = a => console.log(a)
+print2('Cool!!!!!')
