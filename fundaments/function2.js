@@ -1,5 +1,5 @@
 // storing a function in the variable
-const printSum = function(a, b) {
+const printSum = function (a, b) {
   console.log(a + b)
 }
 
@@ -10,12 +10,12 @@ const sum = (a, b) => {
   return a + b
 }
 
-console.log(sum(2,3))
+console.log(sum(2, 3))
 
 // implicit return
-const subtraction = (a,b) => a - b
+const subtraction = (a, b) => a - b
 
-console.log(subtraction(3,2))
+console.log(subtraction(3, 2))
 
-const print2 = a => console.log(a)
+const print2 = (a) => console.log(a)
 print2('Cool!!!!!')
