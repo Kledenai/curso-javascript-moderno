@@ -1,3 +1,3 @@
-# curso-javascript-moderno
+# modern-javascript-course
 
-Um curso completo de javascript moderno com tudo que você precisa saber para construir aplicações modernas para web
+A complete modern javascript course with everything you need to know to build modern web applications
