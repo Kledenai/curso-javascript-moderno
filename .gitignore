@@ -1,0 +1,18 @@
+# Logs
+logs
+*.log
+
+# Stores VSCode versions used for testing VSCode extensions
+.vscode-test
+
+# Deepcode
+.dccache
+
+# Archives default from mac
+*DS_Store
+
+#commands history
+.ash_history
+
+#secrets config files
+.config
